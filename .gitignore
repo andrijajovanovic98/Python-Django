@@ -1,8 +1,4 @@
-NewEnv/
-__pycache__/
-*.pyc
-db.sqlite3
-.vscode/
+
 ### OSX ###
 .DS_Store
 .AppleDouble
@@ -12,7 +8,7 @@ db.sqlite3
 Icon
 
 #Virtual Env
-venv/
+NewEnv/
 
 #Media Files
 **/media/
